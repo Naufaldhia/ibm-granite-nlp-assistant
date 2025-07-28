@@ -22,7 +22,7 @@ Umur Pelanggan: Rata-rata umur pelanggan adalah 55 tahun, dengan minimum 0 dan m
 Pendapatan Pelanggan: Rata-rata pendapatan pelanggan adalah 52.247 (dalam satuan mata uang tidak disebutkan). Ini menunjukkan bahwa mayoritas pelanggan berasal dari segmen menengah ke atas dalam hal penghasilan.<br>
 Status Hubungan: Sebanyak 864 pelanggan (sekitar 38%) terdaftar sebagai menikah atau dalam hubungan. Sekitar 13% pelanggan terlalu muda untuk berada dalam hubungan pernikahan, yang dikelompokkan sebagai kategori "terlalu muda". Ini menunjukkan dominasi pasangan stabil sebagai basis pelanggan utama.<br>
 Anak di Rumah: Sekitar 44% pelanggan memiliki anak kecil (Kidhome > 0) dan 50,62% memiliki anak remaja (Teenhome > 0). Ini menandakan banyak keluarga yang memiliki anak dalam masa tumbuh kembang, yang dapat menjadi target untuk produk keluarga dan anak-anak.<br>
-Jumlah Transaksi: Rata-rata pelanggan melakukan sekitar 3,04 transaksi per bulan. Sebagian besar transaksi dilakukan dalam kategori tertentu (misalnya: wine, meat, gold, dll.), namun ini tidak dirinci pada data saat ini. Menunjukkan bahwa intensitas pembelian cukup rendah, dengan peluang peningkatan frekuensi pembelian pada segmen tertentu.
+Jumlah Transaksi: Rata-rata pelanggan melakukan sekitar 3,04 transaksi per bulan. Sebagian besar transaksi dilakukan dalam kategori tertentu (misalnya: wine, meat, gold, dll.), namun ini tidak dirinci pada data saat ini. Menunjukkan bahwa intensitas pembelian cukup rendah, dengan peluang peningkatan frekuensi pembelian pada segmen tertentu.<br>
 <img width="627" height="140" alt="image" src="https://github.com/user-attachments/assets/a06eae9a-654d-4c01-82f4-2592e7e3f015" />
 
 Model AI Digunakan:<br>
