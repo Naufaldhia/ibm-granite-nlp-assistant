@@ -1,3 +1,8 @@
+
+![hacktiv8_logo](https://github.com/user-attachments/assets/c6c79150-c4d8-4a58-81fd-4634aac3e99b)
+
+![Screenshot 2025-07-28 115851](https://github.com/user-attachments/assets/e96adb87-31a1-480b-b5bc-0eb761b5f67e)
+
 # ibm-granite-nlp-assistant
 Capstone project using IBM Granite models for building a smart AI assistant as part of Hacktiv program.<br></br>
 <b>Title Project:</b><br></br>
