@@ -8,6 +8,7 @@ Capstone project using IBM Granite models for building a smart AI assistant as p
 <b>Title Project:</b><br></br>
 AI-Powered Customer Analysis with IBM Granite <br></br>
 (Memahami perilaku pelanggan dan strategi pemasaran berbasis data)
+<br>
 <img width="491" height="140" alt="image" src="https://github.com/user-attachments/assets/f5b56ff3-0c7c-4ff1-81f7-508edb5a57f7" />
 
 Dataset Title: Customer Personality Analysis<br>
